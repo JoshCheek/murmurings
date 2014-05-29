@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://objectParadigm.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://murmurings.herokuapp.com
+title: objectParadigm
+subtitle: murmerings of an aspiring programmer
+author: objectParadigm
 simple_search: https://www.google.com/search
 description:
 
@@ -63,13 +63,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: objectParadigm
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: objectParadigm
 twitter_tweet_button: true
 
 # Google +1
