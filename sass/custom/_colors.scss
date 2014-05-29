@@ -41,3 +41,14 @@
 //$pre-bg: $base03;
 //$pre-border: darken($base02, 5);
 //$pre-color: $base1;
+$heroku: #1c1828;
+html {
+  background: $heroku;
+}
+$title-color: lighten($heroku, 20);
+$sidebar-link-color: lighten($heroku, 20);
+$sidebar-link-color-hover: lighten($heroku, 40);
+aside.sidebar li, aside.sidebar section h1 { border-bottom: none !important; padding-bottom: 0 !important; webkit-box-shadow: none !important; box-shadow: none !important; }
+aside.sidebar section h1 { color: #aaa; }
+aside.sidebar ul { margin-bottom: 3em !important; }
+h1 { font-weight: normal !important; }

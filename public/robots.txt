@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://objectParadigm.github.io/sitemap.xml 
+Sitemap: http://murmurings.herokuapp.com//sitemap.xml 
